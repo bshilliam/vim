@@ -6,3 +6,5 @@ set number
 set colorcolumn=90
 set hlsearch
 set showmatch
+set laststatus=2
+set noshowmode
